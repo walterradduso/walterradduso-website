@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.81faca86.chunk.css",
-    "main.js": "/static/js/main.91391d43.chunk.js",
-    "main.js.map": "/static/js/main.91391d43.chunk.js.map",
+    "main.css": "/static/css/main.ff694c44.chunk.css",
+    "main.js": "/static/js/main.4ce53479.chunk.js",
+    "main.js.map": "/static/js/main.4ce53479.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e250a81e.js",
     "runtime-main.js.map": "/static/js/runtime-main.e250a81e.js.map",
     "static/css/2.fa464204.chunk.css": "/static/css/2.fa464204.chunk.css",
@@ -10,17 +10,17 @@
     "static/js/2.1e442736.chunk.js.map": "/static/js/2.1e442736.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.fa464204.chunk.css.map": "/static/css/2.fa464204.chunk.css.map",
-    "static/css/main.81faca86.chunk.css.map": "/static/css/main.81faca86.chunk.css.map",
+    "static/css/main.ff694c44.chunk.css.map": "/static/css/main.ff694c44.chunk.css.map",
     "static/js/2.1e442736.chunk.js.LICENSE.txt": "/static/js/2.1e442736.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/profile-img.ce3140f0.jpg": "/static/media/profile-img.ce3140f0.jpg",
-    "static/media/resume_walter_radduso.228ea83c.pdf": "/static/media/resume_walter_radduso.228ea83c.pdf"
+    "static/media/resume_walter_radduso.03a8cf6d.pdf": "/static/media/resume_walter_radduso.03a8cf6d.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.e250a81e.js",
     "static/css/2.fa464204.chunk.css",
     "static/js/2.1e442736.chunk.js",
-    "static/css/main.81faca86.chunk.css",
-    "static/js/main.91391d43.chunk.js"
+    "static/css/main.ff694c44.chunk.css",
+    "static/js/main.4ce53479.chunk.js"
   ]
 }
